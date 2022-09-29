@@ -1,2 +1,2 @@
-# Merge-Conflits - REMOTE
+# Merge-Conflits - Local
 conflits de canard
