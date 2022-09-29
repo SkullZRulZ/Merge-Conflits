@@ -1,2 +1,2 @@
-# Merge-Conflits - Local
+# Merge-Conflits - Remote
 conflits de canard
